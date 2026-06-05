@@ -58,8 +58,8 @@ Actualmente me enfoco en desarrollar aplicaciones escalables, optimizar procesos
 ## 📊 Estadísticas GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mc-stick&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mc-stick&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -67,7 +67,7 @@ Actualmente me enfoco en desarrollar aplicaciones escalables, optimizar procesos
 ## 🔥 Racha de Contribuciones
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=mc-stick&theme=tokyonight" />
 </p>
 
 ---
