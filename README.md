@@ -131,7 +131,7 @@ Desarrollo de APIs seguras y escalables para integración entre sistemas.
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&label=Visitas&color=blueviolet&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=mc-stick&label=Visitas&color=blueviolet&style=for-the-badge" />
 </p>
 
 <p align="center">
