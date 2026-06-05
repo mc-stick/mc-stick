@@ -53,8 +53,9 @@ Actualmente me enfoco en desarrollar aplicaciones escalables, optimizar procesos
 - Despliegue de aplicaciones web
 - Integración continua básica
 
----
+
 <!---
+---
 ## 📊 Estadísticas GitHub
 
 <p align="center">
