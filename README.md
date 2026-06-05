@@ -54,14 +54,14 @@ Actualmente me enfoco en desarrollar aplicaciones escalables, optimizar procesos
 - Integración continua básica
 
 ---
-
+<!---
 ## 📊 Estadísticas GitHub
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mc-stick&show_icons=true&theme=tokyonight" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mc-stick&layout=compact&theme=tokyonight" />
 </p>
-
+-->
 ---
 
 ## 🔥 Racha de Contribuciones
