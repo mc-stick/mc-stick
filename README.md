@@ -13,17 +13,18 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-<img src="https://github.com/mc-stick/banner.png" alt="Banner" width="100%">
 
+<img src="https://github.com/mc-stick/banner.png" alt="Banner" width="100%">
+-->
 ### Tecnologías
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,nodejs,react,python,mysql,git" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mysql,git" />
 </p>
 
+<!--
 ![Stats](https://github-readme-stats.vercel.app/api?username=mc-stick&show_icons=true&theme=tokyonight)
 ![Streak](https://streak-stats.demolab.com?user=mc-stick&theme=tokyonight)
-
+-->
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
