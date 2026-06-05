@@ -1,30 +1,139 @@
-## Hi there 👋
+# 👋 Hola, soy Manuel Fabian
 
-<!--
-**mc-stick/mc-stick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Full%20Stack%20Developer%20%7C%20IT%20Technician&fontSize=40&fontAlignY=40" width="100%" />
 
-Here are some ideas to get you started:
+## 🚀 Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Soy desarrollador web y técnico de TI con experiencia en el desarrollo de aplicaciones web, administración de servidores Linux, despliegue de servicios y soporte tecnológico.
 
-<img src="https://github.com/mc-stick/banner.png" alt="Banner" width="100%">
--->
-### Tecnologías
+Me especializo en la creación de soluciones web modernas utilizando JavaScript y Node.js, así como en la configuración y mantenimiento de infraestructuras tecnológicas basadas en Linux y Apache.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mysql,git" />
+Actualmente me enfoco en desarrollar aplicaciones escalables, optimizar procesos empresariales mediante software y fortalecer mis conocimientos en arquitectura de sistemas, CCNA y computación en la nube.
+
+---
+
+## 💻 Tecnologías de Desarrollo
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,mysql,git" />
 </p>
 
-<!--
-![Stats](https://github-readme-stats.vercel.app/api?username=mc-stick&show_icons=true&theme=tokyonight)
-![Streak](https://streak-stats.demolab.com?user=mc-stick&theme=tokyonight)
--->
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+### Desarrollo Web
+- HTML5
+- CSS3
+- JavaScript
+- Node.js
+- React
+- MySQL
+- Git y GitHub
+
+---
+
+## 🖥️ Tecnologías de Infraestructura y TI
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,apache" />
+</p>
+
+### Administración y Soporte TI
+
+- Oracle Linux
+- Apache HTTP Server
+- SQL
+- Administración de bases de datos
+- Configuración de servidores
+- Implementación de aplicaciones web
+- Gestión de redes y soporte técnico
+- Seguridad básica de sistemas
+
+### Plataformas Cloud y Deploy
+
+- Vercel
+- Render
+- Despliegue de aplicaciones web
+- Integración continua básica
+
+---
+
+## 📊 Estadísticas GitHub
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 Racha de Contribuciones
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=tokyonight" />
+</p>
+
+---
+
+## 🎯 Habilidades
+
+### Desarrollo
+
+✔ Desarrollo Frontend y Backend
+
+✔ APIs REST
+
+✔ Diseño Responsivo
+
+✔ Integración de Bases de Datos
+
+✔ Control de Versiones con Git
+
+✔ Optimización de Aplicaciones
+
+### Infraestructura TI
+
+✔ Administración de Linux
+
+✔ Configuración de Apache
+
+✔ Gestión de Bases de Datos SQL
+
+✔ Soporte Técnico
+
+✔ Monitoreo y Mantenimiento de Sistemas
+
+✔ Implementación de Servicios Web
+
+---
+
+## 📂 Proyectos Destacados
+
+### 🌐 Sistema de Gestión Web
+
+Aplicación web desarrollada con Node.js, React y MySQL para administración de usuarios y procesos empresariales.
+
+### 🖥️ Servidor Web Linux
+
+Implementación y configuración de servicios Apache sobre Oracle Linux para entornos de producción.
+
+### 📡 API REST
+
+Desarrollo de APIs seguras y escalables para integración entre sistemas.
+
+---
+
+## 📚 Actualmente aprendiendo
+
+- Docker
+- DevOps
+- Cloud Computing
+- Arquitecturas Escalables
+- Ciberseguridad
+- Oracle Cloud Infrastructure (OCI)
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&label=Visitas&color=blueviolet&style=for-the-badge" />
+</p>
+
+<p align="center">
+  <i>"La tecnología bien aplicada transforma problemas en oportunidades."</i>
+</p>
