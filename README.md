@@ -177,7 +177,7 @@ Desarrollo de APIs seguras y escalables para integración entre sistemas.
 
 ## GitHub Activity
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mc-stick&theme=github-compact&hide_border=true)  
+![GitHub Contributions](https://ghchart.rshah.org/mc-stick)  
 
 <!---
 ---
