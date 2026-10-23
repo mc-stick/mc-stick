@@ -136,15 +136,15 @@ Plataforma configurable de gestión de turnos que permite organizar la atención
 
 ## Funcionalidades principales
 
-- ** Gestión de turnos:** Generación, asignación y seguimiento de turnos mediante un sistema configurable.
-- ** Notificaciones por SMS:** Envío de tickets y números de turno al teléfono del cliente mediante mensajes de texto.
-- ** Impresión de tickets:** Opción de imprimir tickets físicos según la configuración del sistema.
-- ** Pantallas de turnos:** Visualización de turnos llamados en una o varias pantallas de TV.
-- ** Gestión de anuncios:** Exhibición de anuncios y contenido informativo en las pantallas.
-- ** Pantalla dividida configurable:** Visualización simultánea de turnos y anuncios, con opción de mostrar únicamente anuncios cuando no hay turnos activos.
-- ** Terminal de atención:** Interfaz para que los operadores gestionen y llamen los turnos.
-- ** Kiosco de autoservicio:** Terminal para que los clientes soliciten sus propios tickets.
-- ** Configuración flexible:** Adaptación de las pantallas, los tickets y las opciones de visualización según las necesidades de cada establecimiento.
+- **Gestión de turnos:** Generación, asignación y seguimiento de turnos mediante un sistema configurable.
+- **Notificaciones por SMS:** Envío de tickets y números de turno al teléfono del cliente mediante mensajes de texto.
+- **Impresión de tickets:** Opción de imprimir tickets físicos según la configuración del sistema.
+- **Pantallas de turnos:** Visualización de turnos llamados en una o varias pantallas de TV.
+- **Gestión de anuncios:** Exhibición de anuncios y contenido informativo en las pantallas.
+- **Pantalla dividida configurable:** Visualización simultánea de turnos y anuncios, con opción de mostrar únicamente anuncios cuando no hay turnos activos.
+- **Terminal de atención:** Interfaz para que los operadores gestionen y llamen los turnos.
+- **Kiosco de autoservicio:** Terminal para que los clientes soliciten sus propios tickets.
+- **Configuración flexible:** Adaptación de las pantallas, los tickets y las opciones de visualización según las necesidades de cada establecimiento.
 
 ## Componentes del sistema
 
