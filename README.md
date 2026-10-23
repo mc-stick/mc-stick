@@ -1,5 +1,5 @@
 # Manuel Fabian
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mc-stick&bg_color=0D1117&color=39D353&line=39D353&point=FFFFFF&area=true&area_color=39D353&title_color=39D353&hide_border=true)](https://github.com/mc-stick)
+
 
 ## Sobre mí
 
@@ -176,7 +176,7 @@ Desarrollo de APIs seguras y escalables para integración entre sistemas.
 
 ## GitHub Activity
 
-![GitHub Contributions](https://ghchart.rshah.org/39D353/mc-stick)  
+![GitHub Contributions](https://ghchart.xqsit94.in/dark:39D353/mc-stick)
 
 <!---
 ---
