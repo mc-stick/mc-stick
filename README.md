@@ -175,6 +175,10 @@ Desarrollo de APIs seguras y escalables para integración entre sistemas.
 - Ciberseguridad
 - Oracle Cloud Infrastructure (OCI)
 
+## GitHub Activity
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mc-stick&theme=github-compact&hide_border=true)  
+
 <!---
 ---
 <p align="center">
