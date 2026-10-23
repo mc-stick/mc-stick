@@ -107,21 +107,54 @@ Actualmente me enfoco en desarrollar aplicaciones escalables, optimizar procesos
 
 ## Proyectos Destacados
 
-### Sistema POS y Gestión de Inventario
+# Sistema POS y Gestión de Inventario
 
-Plataforma web y móvil desarrollada con React, JavaScript, Node.js y MySQL, diseñada para centralizar y optimizar las operaciones comerciales.
+Plataforma web y móvil desarrollada con **React.js, JavaScript, Node.js y MySQL**, diseñada para centralizar y optimizar las operaciones comerciales.
 
-Funcionalidades principales
-Arquitectura multiplataforma: Aplicaciones web y móvil integradas.
-Punto de venta y escaneo: Gestión de ventas y lectura de códigos de barras mediante la cámara del dispositivo móvil.
-Control de inventario: Administración de productos, existencias, entradas, salidas y ajustes de stock.
-Reportes y analítica: Informes detallados de ventas, movimientos de mercancía y actividad operativa.
-Auditoría y trazabilidad: Bitácoras de acciones de usuarios, historial de cambios y seguimiento de los procesos internos.
+##  Funcionalidades principales
 
-Tecnologías utilizadas
-Frontend: React, JavaScript.
-Backend: Node.js.
-Base de datos: MySQL.
+- **Arquitectura multiplataforma:** Aplicaciones web y móvil integradas.
+- **Punto de venta (POS):** Gestión y procesamiento de ventas.
+- **Escaneo de códigos de barras:** Lectura mediante la cámara nativa del dispositivo móvil.
+- **Gestión de inventario:** Administración de productos, existencias, entradas, salidas y ajustes de stock.
+- **Reportes y analítica:** Informes detallados de ventas, movimientos de mercancía y actividad operativa.
+- **Auditoría y trazabilidad:** Bitácoras de acciones de usuarios, historial de cambios y seguimiento de procesos internos.
+
+## Tecnologías utilizadas
+
+- **Frontend:** React.js, JavaScript.
+- **Backend:** Node.js.
+- **Base de datos:** MySQL.
+
+## Objetivo
+
+Ofrecer una solución integral para optimizar la gestión comercial, mejorar el control de inventario y garantizar la trazabilidad de las operaciones realizadas dentro del sistema.
+
+# Sistema de Gestión de Turnos y Anuncios
+
+Plataforma configurable de gestión de turnos que permite organizar la atención al cliente, emitir tickets digitales o impresos y administrar la visualización de turnos y anuncios en una o varias pantallas.
+
+## Funcionalidades principales
+
+- ** Gestión de turnos:** Generación, asignación y seguimiento de turnos mediante un sistema configurable.
+- ** Notificaciones por SMS:** Envío de tickets y números de turno al teléfono del cliente mediante mensajes de texto.
+- ** Impresión de tickets:** Opción de imprimir tickets físicos según la configuración del sistema.
+- ** Pantallas de turnos:** Visualización de turnos llamados en una o varias pantallas de TV.
+- ** Gestión de anuncios:** Exhibición de anuncios y contenido informativo en las pantallas.
+- ** Pantalla dividida configurable:** Visualización simultánea de turnos y anuncios, con opción de mostrar únicamente anuncios cuando no hay turnos activos.
+- ** Terminal de atención:** Interfaz para que los operadores gestionen y llamen los turnos.
+- ** Kiosco de autoservicio:** Terminal para que los clientes soliciten sus propios tickets.
+- ** Configuración flexible:** Adaptación de las pantallas, los tickets y las opciones de visualización según las necesidades de cada establecimiento.
+
+## Componentes del sistema
+
+- **Terminal de atención:** Gestión y llamado de turnos por parte de los operadores.
+- **Kiosco de tickets:** Emisión de turnos para los clientes.
+- **Pantallas de visualización:** Presentación de turnos, anuncios y contenido informativo en una o varias TV.
+
+## Objetivo
+
+Optimizar los procesos de atención al cliente mediante la automatización de turnos, la reducción de tiempos de espera y la integración de notificaciones, kioscos de autoservicio y pantallas publicitarias en una solución centralizada.
 
 ### Servidor Web Linux
 
