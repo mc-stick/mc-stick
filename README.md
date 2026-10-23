@@ -1,5 +1,6 @@
 # Manuel Fabian
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Full%20Stack%20Developer%20%7C%20IT%20Technician&fontSize=40&fontAlignY=40" width="100%" />
 
 ## Sobre mí
 
@@ -174,11 +175,11 @@ Desarrollo de APIs seguras y escalables para integración entre sistemas.
 - Ciberseguridad
 - Oracle Cloud Infrastructure (OCI)
 
-## GitHub Activity
+<!---## GitHub Activity
 
 ![GitHub Contributions](https://ghchart.xqsit94.in/dark:39D353/mc-stick)
 
-<!---
+
 ---
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mc-stick&label=Visitas&color=blueviolet&style=for-the-badge" />
