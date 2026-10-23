@@ -1,5 +1,5 @@
 # Manuel Fabian
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0D1117&color=39D353&line=39D353&point=FFFFFF&area=true&area_color=39D353&title_color=39D353&hide_border=true)](https://github.com/YOUR_USERNAME)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mc-stick&bg_color=0D1117&color=39D353&line=39D353&point=FFFFFF&area=true&area_color=39D353&title_color=39D353&hide_border=true)](https://github.com/mc-stick)
 
 ## Sobre mí
 
