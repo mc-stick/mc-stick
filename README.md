@@ -2,9 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Full%20Stack%20Developer%20%7C%20IT%20Technician&fontSize=40&fontAlignY=40" width="100%" />
 
-## 🚀 Sobre mí
+## Sobre mí
 
-Soy desarrollador web y técnico de TI con experiencia en el desarrollo de aplicaciones web, administración de servidores Linux, despliegue de servicios y soporte tecnológico.
+Desarrollador web y técnico de TI con experiencia en el desarrollo de aplicaciones web, administración de servidores Linux, despliegue de servicios y soporte tecnológico.
 
 Me especializo en la creación de soluciones web modernas utilizando JavaScript y Node.js, así como en la configuración y mantenimiento de infraestructuras tecnológicas basadas en Linux y Apache.
 
@@ -12,10 +12,10 @@ Actualmente me enfoco en desarrollar aplicaciones escalables, optimizar procesos
 
 ---
 
-## 💻 Tecnologías de Desarrollo
+## Tecnologías de Desarrollo
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,mysql,git" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,mysql,git," />
 </p>
 
 ### Desarrollo Web
@@ -29,7 +29,7 @@ Actualmente me enfoco en desarrollar aplicaciones escalables, optimizar procesos
 
 ---
 
-## 🖥️ Tecnologías de Infraestructura y TI
+## Tecnologías de Infraestructura y TI
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,apache" />
@@ -65,7 +65,7 @@ Actualmente me enfoco en desarrollar aplicaciones escalables, optimizar procesos
 -->
 ---
 
-## 🔥 Racha de Contribuciones
+## Racha de Contribuciones
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=mc-stick&theme=tokyonight" />
@@ -73,7 +73,7 @@ Actualmente me enfoco en desarrollar aplicaciones escalables, optimizar procesos
 
 ---
 
-## 🎯 Habilidades
+## Habilidades
 
 ### Desarrollo
 
@@ -105,23 +105,35 @@ Actualmente me enfoco en desarrollar aplicaciones escalables, optimizar procesos
 
 ---
 
-## 📂 Proyectos Destacados
+## Proyectos Destacados
 
-### 🌐 Sistema de Gestión Web
+### Sistema POS y Gestión de Inventario
 
-Aplicación web desarrollada con Node.js, React y MySQL para administración de usuarios y procesos empresariales.
+Plataforma web y móvil desarrollada con React, JavaScript, Node.js y MySQL, diseñada para centralizar y optimizar las operaciones comerciales.
 
-### 🖥️ Servidor Web Linux
+Funcionalidades principales
+Arquitectura multiplataforma: Aplicaciones web y móvil integradas.
+Punto de venta y escaneo: Gestión de ventas y lectura de códigos de barras mediante la cámara del dispositivo móvil.
+Control de inventario: Administración de productos, existencias, entradas, salidas y ajustes de stock.
+Reportes y analítica: Informes detallados de ventas, movimientos de mercancía y actividad operativa.
+Auditoría y trazabilidad: Bitácoras de acciones de usuarios, historial de cambios y seguimiento de los procesos internos.
+
+Tecnologías utilizadas
+Frontend: React, JavaScript.
+Backend: Node.js.
+Base de datos: MySQL.
+
+### Servidor Web Linux
 
 Implementación y configuración de servicios Apache sobre Oracle Linux para entornos de producción.
 
-### 📡 API REST
+### API REST
 
 Desarrollo de APIs seguras y escalables para integración entre sistemas.
 
 ---
 
-## 📚 Actualmente aprendiendo
+## Actualmente aprendiendo
 
 - Docker
 - DevOps
@@ -130,11 +142,13 @@ Desarrollo de APIs seguras y escalables para integración entre sistemas.
 - Ciberseguridad
 - Oracle Cloud Infrastructure (OCI)
 
-
+<!---
+---
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mc-stick&label=Visitas&color=blueviolet&style=for-the-badge" />
-</p>
+</p>---
+
 
 <p align="center">
   <i>"La tecnología bien aplicada transforma problemas en oportunidades."</i>
-</p>
+</p>--->
