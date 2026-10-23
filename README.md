@@ -177,7 +177,7 @@ Desarrollo de APIs seguras y escalables para integración entre sistemas.
 
 ## GitHub Activity
 
-![GitHub Contributions](https://ghchart.rshah.org/mc-stick)  
+![GitHub Contributions](https://ghchart.rshah.org/39D353/mc-stick)  
 
 <!---
 ---
