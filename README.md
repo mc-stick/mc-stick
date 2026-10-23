@@ -1,8 +1,5 @@
 # Manuel Fabian
-## 📊 GitHub Contribution Calendar
-
-![GitHub Contributions](https://ghchart.rshah.org/39D353/YOUR_USERNAME)
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Full%20Stack%20Developer%20%7C%20IT%20Technician&fontSize=40&fontAlignY=40" width="100%" />
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0D1117&color=39D353&line=39D353&point=FFFFFF&area=true&area_color=39D353&title_color=39D353&hide_border=true)](https://github.com/YOUR_USERNAME)
 
 ## Sobre mí
 
