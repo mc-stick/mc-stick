@@ -1,5 +1,7 @@
 # Manuel Fabian
-![GitHub Contributions](https://gh-heat.anishroy.com/api/YOUR_USERNAME/svg?theme=green&darkMode=true)
+## 📊 GitHub Contribution Calendar
+
+![GitHub Contributions](https://ghchart.rshah.org/39D353/YOUR_USERNAME)
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Full%20Stack%20Developer%20%7C%20IT%20Technician&fontSize=40&fontAlignY=40" width="100%" />
 
 ## Sobre mí
